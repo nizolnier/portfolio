@@ -1,7 +1,9 @@
+import React from 'react'
+import HomeScreen from './screens/HomeScreen'
 
-function App() {
+const App = () => {
   return (
-    <div>oi</div>
+    <HomeScreen />
   )
 }
 
