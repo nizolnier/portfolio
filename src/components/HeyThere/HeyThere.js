@@ -11,7 +11,6 @@ const HeyThere = () => {
       </MediaContainer>
       <Presentation>
         <Iam>Eu sou <br></br><b>Nicole Zolnier</b><br></br><Profession>Desenvolvedora FullStack</Profession></Iam>
-        
       </Presentation>
       <Myself src={hi} />
     </MainContainer>
