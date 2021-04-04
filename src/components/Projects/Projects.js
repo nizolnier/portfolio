@@ -1,12 +1,12 @@
 import React from 'react'
 import ProjectCard from './ProjectCard'
-import astromatch from '../assets/astromatch.png'
-import cookenu from '../assets/cookenu.png'
-import greenddit from '../assets/greenddit.png'
-import lama from '../assets/lama.png'
-import labegramBack from '../assets/labegram-back.png'
-import labegramFront from '../assets/labegram-front.png'
-import starX from '../assets/starX.png'
+import astromatch from '../../assets/astromatch.png'
+import cookenu from '../../assets/cookenu.png'
+import greenddit from '../../assets/greenddit.png'
+import lama from '../../assets/lama.png'
+import labegramBack from '../../assets/labegram-back.png'
+import labegramFront from '../../assets/labegram-front.png'
+import starX from '../../assets/starX.png'
 
 const Projects = () => {
   const projects = [{
