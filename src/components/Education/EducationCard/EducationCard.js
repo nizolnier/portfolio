@@ -1,8 +1,14 @@
 import React from 'react'
+import { Rectangle } from './styles'
+// import { Heading, Text } from "@chakra-ui/react"
 
-const EducationCard = () => {
+const EducationCard = ({title, institution, year, description}) => {
   return (
-    <div>EducationCard</div>
+    <Rectangle>
+      <h1>{title}</h1>
+      <p>{institution} - {year}</p>
+      <p>{description}</p>
+    </Rectangle>
   )
 }
 
