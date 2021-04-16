@@ -1,8 +1,11 @@
 import React from 'react'
+import Social from '../Social/Social'
 
 const Contact = () => {
   return (
-    <div>Contact</div>
+    <div>
+      <Social />
+    </div>
   )
 }
 

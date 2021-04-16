@@ -13,6 +13,3 @@ export const SocialContainer = styled.div`
         }
       }};
 `
-export const MediaIcon = styled.img`
-    width: 12%;
-`
