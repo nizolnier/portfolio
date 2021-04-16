@@ -15,9 +15,13 @@ const HomeScreen = () => {
       <HeyThere />
       <AboutMe />
       <Skills />
-      <Education />
+      <Education /> 
       <Projects />
-      <Contact />
+      <Contact /> 
+      {/*
+      
+      
+      */}
       <Footer />
     </div>
   )
