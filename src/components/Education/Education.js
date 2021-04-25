@@ -8,7 +8,7 @@ const Education = () => {
     title: "Ensino Médio",
     institution: "Sesi Internacional de Curitiba",
     year: "2017 - 2019",
-    description: "O colégio Sesi Internacional conta com uma metologia inovadora e ensino bilingue. A sala era dividida em mesas redondas com equipes de 5 a 6 pessoas do 1°, 2° e 3° ano junto. Cada trimestre, a sala e a equipe mudavam. O ensino era integral, das 08h até as 17h: na parte da manhã eram aulas regulares e na parte da tarde atividades extracurriculares"
+    description: "O Sesi Internacional conta com uma metologia inovadora e ensino bilingue. A sala era dividida em equipes de 5 a 6 pessoas do 1°, 2° e 3° ano. O ensino era integral: na parte da manhã eram as aulas regulares e na parte da tarde atividades extracurriculares"
   },
   {
     title: "Curso Web Fullstack",
